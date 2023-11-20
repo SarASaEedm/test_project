@@ -1,0 +1,3 @@
+To list all tags ---> git tag
+To delete remote tag --> git push orgin :annotated
+To delete local tag --> git tag -d annotates
